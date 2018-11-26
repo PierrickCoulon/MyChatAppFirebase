@@ -1,0 +1,3 @@
+rootProject.name = 'MyChatAppFirebase'
+
+include ':app'
